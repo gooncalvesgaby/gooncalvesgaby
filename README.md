@@ -18,4 +18,4 @@
   
 </div><br/>
 
-Sou estagiária front-end júnior no Hospital Sírio-Libanês e sou apaixonada por mudar o mundo através da Tecnologia!
+Sou desenvolvedora front-end júnior e também atuo como Analista de Requisitos no Hospital Sírio-Libanês, sou apaixonada por transformar o mundo através da Tecnologia!
